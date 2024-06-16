@@ -1,1 +1,3 @@
 # data-base-2
+Difficulties: One is emotional nature of the content. It deals with tragic events that led to fatalities and injuries, which could be distressing. Additionally, the dataset  requires careful handling and analysis due to the sensitive nature of the information.
+Interesting Observation: An interesting aspect of this dataset is its wide geographical coverage. The incidents recorded span across various countries, indicating that overcrowding and inadequate crowd control measures are global issues. This highlights the importance of proper crowd management and emergency preparedness in preventing such disasters.
